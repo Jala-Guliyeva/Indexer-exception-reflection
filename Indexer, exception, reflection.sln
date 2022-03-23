@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer, exception, reflection", "Indexer, exception, reflection\Indexer, exception, reflection.csproj", "{9825D50C-0B23-47A8-AC03-9CE195C28DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{E0DCAEB6-5A54-4724-B42A-E9D22568736C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9825D50C-0B23-47A8-AC03-9CE195C28DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9825D50C-0B23-47A8-AC03-9CE195C28DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9825D50C-0B23-47A8-AC03-9CE195C28DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9825D50C-0B23-47A8-AC03-9CE195C28DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DCAEB6-5A54-4724-B42A-E9D22568736C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DCAEB6-5A54-4724-B42A-E9D22568736C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DCAEB6-5A54-4724-B42A-E9D22568736C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DCAEB6-5A54-4724-B42A-E9D22568736C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF89568-8DC9-4196-B301-95DFEE0BFD73}
+	EndGlobalSection
+EndGlobal
